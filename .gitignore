@@ -1,0 +1,13 @@
+.vscode/
+*.map
+*.asm
+*.rel
+*.o
+*.sym
+*.lk
+*.lst
+*.rst
+*.cdb
+*.bin
+*.ihx
+
